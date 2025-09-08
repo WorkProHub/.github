@@ -12,11 +12,10 @@
 
 ## 📖 Recursos
 
-- [![Ver Guías](https://img.shields.io/badge/Ver_Guías-AHORA-00cc00?style=rounded&labelColor=1a1a1a)](https://github.com/WorkProHub/Centro-de-productividad-de-Office-365)
-- [![Iniciar Soporte](https://img.shields.io/badge/Iniciar_Soporte-AHORA-00cc00?style=rounded&labelColor=1a1a1a)](https://github.com/WorkProHub/.github)
-
----
+<a href="https://github.com/WorkProHub/Centro-de-productividad-de-Office-365" target="_blank">
+  <img src="https://img.shields.io/badge/Start_Tutorial-NOW-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ## 🔎 Palabras Clave
 
-office 365, productividad, guías de trabajo, herramientas pc, soporte oficina
+office 365, software de productividad, guías de trabajo, herramientas de gestión de documentos, programas windows, anulación de tareas, software de oficina, herramientas pc trabajo, consejos office, guía de programas de oficina, software windows productividad, anulación de documentos, software para trabajo, guía pc oficina, office 365 consejos, soporte herramientas trabajo, consejos gestión windows, programas de oficina, consejos software trabajo, comunidad office anulación
